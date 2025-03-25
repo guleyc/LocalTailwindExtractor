@@ -26,5 +26,5 @@ A powerful Python tool that scans PHP projects and extracts Tailwind CSS compone
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/guleyc/tailwind-tools.git
-   cd tailwind-tools
+   git clone https://github.com/guleyc/LocalTailwindExtractor.git
+   cd LocalTailwindExtractor
